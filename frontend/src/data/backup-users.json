@@ -1,0 +1,22 @@
+[
+    {
+        "_id": {
+            "$oid": "64a68b2d307cac43044f4768"
+        },
+        "fullname": "shani firka",
+        "username": "shanifi",
+        "password": "$2b$10$T7cVk/yhLutKgHQndtkTvObvGDTaDsb9vPedVuussL8.uRh9cgMvi",
+        "userBio": "",
+        "userImg": {
+            "url": "https://res.cloudinary.com/duxmabf4n/image/upload/v1686594941/p5igjah3vvmmfpdhs2e5.jpg",
+            "style": {
+                "filter": "none"
+            }
+        },
+        "followingId": [],
+        "followersId": [],
+        "savedStories": [],
+        "taggedStories": [],
+        "userStories": []
+    }
+]

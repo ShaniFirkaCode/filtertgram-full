@@ -1,0 +1,47 @@
+[
+    {
+        "_id": {
+            "$oid": "64a582380ce4a0c3593c73eb"
+        },
+        "txt": "yummy!!",
+        "img": {
+            "url": "https://res.cloudinary.com/duxmabf4n/image/upload/v1685949752/mvvh6gxmpshxuxit9bth.jpg",
+            "style": {
+                "filter": "none"
+            }
+        },
+        "by": {
+            "userName": "irene_rad",
+            "userImg": {
+                "url": "https://res.cloudinary.com/duxmabf4n/image/upload/v1685950112/eiqrhchqoliytvlhd60w.jpg",
+                "style": {
+                    "filter": "none"
+                }
+            }
+        },
+        "comments": [],
+        "likedBy": []
+    },
+    {
+        "_id": "64a5d990ef6c1e6454f7fbe9",
+        "txt": "My idol 🤩🤩🤩",
+        "img": {
+            "url": "https://res.cloudinary.com/duxmabf4n/image/upload/w_494,h_550,c_fill/v1686656890/k2yuynn7dlcx4fc9yon6.jpg",
+            "style": {
+                "filter": "saturate(2)"
+            }
+        },
+        "comments": [],
+        "likedBy": [],
+        "by": {
+            "_id": "64a5d326a9cf63690c9aa8a2",
+            "username": "shanifirka",
+            "userImg": {
+                "url": "https://res.cloudinary.com/duxmabf4n/image/upload/v1686594941/p5igjah3vvmmfpdhs2e5.jpg",
+                "style": {
+                    "filter": "none"
+                }
+            }
+        }
+    }
+]

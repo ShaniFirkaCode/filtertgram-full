@@ -1,0 +1,60 @@
+[
+    {
+        "_id": "64a583ea0ce4a0c3593e6c94",
+        "fullName": "Irene Radvogin",
+        "userName": "irene_rad",
+        "mail": "IreneRadvogin@gmail.com",
+        "userBio": "",
+        "userImg": {
+            "url": "https://res.cloudinary.com/duxmabf4n/image/upload/v1685950112/eiqrhchqoliytvlhd60w.jpg",
+            "style": {
+                "filter": "none"
+            }
+        },
+        "followingId": [],
+        "followersId": [],
+        "savedStories": [],
+        "taggedStories": [],
+        "userStories": [
+            "64a582380ce4a0c3593c73eb"
+        ],
+        "createdAt": "2023-07-05T14:53:30.000Z"
+    },
+    {
+        "_id": "64a583ea0ce4a0c3593e6c95",
+        "fullName": "David Goggins",
+        "userName": "davidg",
+        "mail": "",
+        "userBio": "",
+        "userImg": {
+            "url": "https://res.cloudinary.com/duxmabf4n/image/upload/v1686570314/wftqmpysimoxouukkpxj.jpg",
+            "style": {
+                "filter": "none"
+            }
+        },
+        "followingId": [],
+        "followersId": [],
+        "savedStories": [],
+        "taggedStories": [],
+        "userStories": [],
+        "createdAt": "2023-07-05T14:53:30.000Z"
+    },
+    {
+        "_id": "64a5d326a9cf63690c9aa8a2",
+        "fullname": "shani firka",
+        "username": "shanifirka",
+        "userBio": "",
+        "userImg": {
+            "url": "https://res.cloudinary.com/duxmabf4n/image/upload/v1686594941/p5igjah3vvmmfpdhs2e5.jpg",
+            "style": {
+                "filter": "none"
+            }
+        },
+        "followingId": [],
+        "followersId": [],
+        "savedStories": [],
+        "taggedStories": [],
+        "userStories": [],
+        "createdAt": "2023-07-05T20:31:34.000Z"
+    }
+]

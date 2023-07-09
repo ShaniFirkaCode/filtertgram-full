@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f16448b.css",
+    "main.js": "/static/js/main.66ee6af0.js",
+    "static/media/filtergramLogo.png": "/static/media/filtergramLogo.0e764323b43db266e390.png",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.9f16448b.css.map": "/static/css/main.9f16448b.css.map",
+    "main.66ee6af0.js.map": "/static/js/main.66ee6af0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f16448b.css",
+    "static/js/main.66ee6af0.js"
+  ]
+}
